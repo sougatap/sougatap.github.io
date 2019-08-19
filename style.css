@@ -1,0 +1,55 @@
+*{
+	
+}
+#container{
+	background:silver;
+	height:600px;
+	width:1200px;
+	margin:0 auto;
+	border:3px solid black
+	padding:2px;
+}
+  #header{
+	  background:brown;
+	  height:40px;
+	  width:1200px;
+	  color:white;
+	  font-family:areal,verdana,sans-serif;
+  }
+    #navbar{
+		background:orange;
+		height:70px;
+		width:1200px;
+	}
+	     #navbar ul{
+			 list-style:none;
+		 }
+		    #navbar ul li{
+				float:left;
+				width:100px;
+				padding:30px;
+			}
+		      #navbar ul li:hover{
+				  background:#ffd280;
+			  }
+	  #middle{
+		  background:silver;
+		  width:1200px;
+	  }
+	  #left{
+		  bakground:red;
+		  height:380px;
+		  width:700px;
+		  float:left;
+	  }
+	  #right{
+		  background:blue;
+		  height:380px;
+		  width:500px;
+		  float:right;
+	  }
+	    #footer{
+			background:brown;
+			height:100px;
+			width:1200px;
+		}
